@@ -1,0 +1,30 @@
+STATISTICS
+ASSIGNMENT-1 
+EXERCISE 1. At what level are each of the following variables operationalized? 
+Numerical (Continuous/Discrete) or Categorical
+	Variable 		Name	Value Labels				Data Type
+1	Age			1, 2, 3, ....					Continuous
+2	Sex			male, female, other				Nominal
+3	Class standing		freshman, sophomore, junior, senior		Ordinal
+4	Marital Status		married, single, divorced, widowed		Nominal
+5	Median Household Income	annual household income in dollars		Continuous
+6	How much you like the food on campus?	a lot, some, a little, other	Ordinal
+7	The number of toxic waste sites in your community	0, 1, 2, 3, ....Discrete
+8	The number of toxic waste sites in your community	0,1–5,6–10, 11+	Ordinal
+9	Your GPA		below average, average, above average		Ordinal
+ 
+EXERCISE 2. Go to the National Opinion Research Center’s 2008 General Social 
+Survey Codebook at http://sda.berkeley.edu/D3/GSS08/Doc/gs08.htm  
+(Alphabetical Variable List). What is the level of measurement 
+(nominal, ordinal, interval, or ratio) for the following variables?
+Variable Name	Level of Measurement	Variable Name	Level of Measurement
+
+ABLEGAL	   Ordinal	MUSICALS	ordinal	
+ACTLIT	   nominal	NATBORN		nominal	
+ADULTS	   nominal	NUMKIDS	
+AGE	   ordinal	PAINCURE	ordinal	
+BIBLE	   ordinal	POLVIEWS	ordinal	
+BLKZONE	   ordinal	RACE		nominal	
+CARSGEN	   ordinal	SEX		nominal	
+CONROCK	   ordinal	TRUST		ordinal	
+
