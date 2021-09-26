@@ -37,16 +37,13 @@ Sample Input
 Sample Output
 
 [-10.  -8.   4.   3.   2.   1.]
-```
 
-#%%
 """
-import numpy
+import numpy as np
 
 def arrays(arr):
-    return numpy.array(arr[::-1],float)
+    return np.array(arr[::-1],float)
      
-
 arr = input().strip().split(' ')
 result = arrays(arr)
 print(result)
